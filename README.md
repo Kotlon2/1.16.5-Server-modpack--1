@@ -1,7 +1,7 @@
 1.16.5 Modpack
 
 To use simply make sure you have curseforge installed, Download this pack
-In the file downloaded there will be a file called "1.16.5(Forge modpack)-1
+In the file downloaded there will be a file called "1.16.5(Forge modpack)"
 
 
 **This is the file you will be using,  DO NOT UNZIP THIS FOLDER**
